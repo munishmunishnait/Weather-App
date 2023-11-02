@@ -1,0 +1,20 @@
+{
+  "name": "assignment-1-start",
+  "version": "0.0.2",
+  "description": "Weather App",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "hello": "echo \"Current Weather Display App\"",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Munish",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
